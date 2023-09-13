@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**dudab23/dudab23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 eu nao estou trabalhando
+- 🌱 estou aprendendo muitas coisas novas 
+- 👯 estudo no colegio vicente rijo 
+- 🤔 Estou procurando ajuda com o scratch
+- 💬 Pergunte-me sobre : artistas e musicas 
+- 📫 Como entrar em contato comigo: maria.barbosa23@escola.pr.gov.br
+- 😄 Pronomes: ela/dela
+- ⚡ curiosidade: gosto de sair,conhecer lugares novos,escutar musicas,atc.
+
+
+![](https://media.tenor.com/E2YALx_3_DAAAAAd/ana-castela.gif)
